@@ -1,6 +1,6 @@
-## Step Part 3 - short answer
+# Step Part 3 - short answer
 
-# Answer the following questions:
+## Answer the following questions:
 
 1. True or false: n^2 + n is O(n^2). **True**
 
