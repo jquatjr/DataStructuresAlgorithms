@@ -1,10 +1,10 @@
 {
-  "name": "dsa-recursion",
+  "name": "solution",
   "version": "1.0.0",
   "description": "",
   "main": "recursion.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
